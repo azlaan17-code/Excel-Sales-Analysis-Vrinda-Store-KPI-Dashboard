@@ -53,12 +53,9 @@ Built an interactive Excel dashboard displaying:
 ## 🔍 Key Insights
 
 - Women customers contribute the majority of revenue
-- 
--Customers aged 30–49 are the most valuable segment
-
--Amazon and Myntra are the top-performing channels
-
--Order cancellations impact revenue performance 
+- Customers aged 30–49 are the most valuable segment
+- Amazon and Myntra are the top-performing channels
+- Order cancellations impact revenue performance 
 
 ---
 
